@@ -52,6 +52,7 @@ body {
   padding-right: 10px;
   padding-left: 10px;
   border-radius: 8px;
+  font-size: 1.2vw;
 }
 
 u {
@@ -93,10 +94,11 @@ h4 {
 
 #title {
   text-align: center;
-  font-size: 15px;
+  font-size: 4vw;
   font-weight: bold;
   text-decoration: underline;
   margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 #img-caption {
@@ -108,14 +110,17 @@ h4 {
 }
 
 #tribute-info {
-  font-size: 12px;
+  font-size: 2.3vw;
+  margin-right: 20px;
 }
 
 h4 {
   text-align: center;
   margin-bottom: 0px;
+  margin-right: 20px;
   padding-bottom: 10px;
-  font-size: 12px;
+  font-size: 2vw;
+  margin-bottom: 10px;
 }
 
 #tribute-link:hover {
